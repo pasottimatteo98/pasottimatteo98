@@ -2,4 +2,4 @@
 
 My name is Matteo 
 
-Working as Software Developer at Maxidata s.r.l
+Working as Software Developer at Zucchetti s.r.l
