@@ -17,9 +17,6 @@ Graduated in **Data Science** from the University of Milano-Bicocca and in **Com
 
 Passionate about Machine Learning and convinced that AI can change the world.
 
-Graduated in **Data Science** from the University of Milano-Bicocca and in **Computer Science**.
-
-Passionate about Machine Learning and convinced that AI can change the world.
 
 ## 🚀 Skills
 
